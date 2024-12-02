@@ -3,7 +3,7 @@ import React from 'react';
 import { Card } from 'react-bootstrap';
 
 export default function EventCard({
-  game, //
+  game,
   description,
   date,
   time,
